@@ -1,7 +1,7 @@
 ---
 title: "Illuminating Snow Droughts"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/snow-droughts
 excerpt: 'Evaluating the future of snow droughts in the Western United States using the SPEAR large ensemble, a high resolution coupled global climate model'
 date: 2022-10-29
 venue: ''
