@@ -1,7 +1,7 @@
 ---
 title: "Small Area Estimation with Zero-Inflated Data"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/zi-sae
 excerpt: 'Building and Evaluating a two-part mixed-effects model for forestry data in a zero-inflated setting.'
 date: 2022-08-10
 venue: ''
