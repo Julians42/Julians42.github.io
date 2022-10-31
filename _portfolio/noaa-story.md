@@ -1,7 +1,7 @@
 ---
 title: "NOAA Research Exprience"
 collection: portfolio
-excerpt: 'Story of the snow droughts project during my time at NOAA'
+excerpt: 'Story of the snow droughts project during my time at NOAA<br/><img src='/images/all_j_photos/snow-drought-portfolio-pic.png' width = 500>'
 ---
 During summer 2021, I conducted research on snow droughts in the Western United States under the direction of of Mimi Hughes (NOAA PSL Boulder Lab) and Nathaniel Johnson and Kai-Chih Tseng (GFDL/Princeton). Our work sought to answer explore what snow conditions we might expect in the coming century deriving this variability from a large ensemble climate model. I am currently preparing to give a talk at AMS in January and working towards publication. Check the project out on [GitHub](https://github.com/Julians42/Snow_Droughts).
 
