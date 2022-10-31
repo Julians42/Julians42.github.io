@@ -3,9 +3,6 @@ title: "Seismology Research Exprience"
 collection: portfolio
 excerpt: 'Detailing my work with the Harvard and UWashington Seismology Groups'
 ---
-
-
-# Seismology
 Beginning spring 2020 I joined the Harvard Seismology group as a research assistant for a term-time position which ulimately expanded into a 15-month position across 2 part-time (20 hrs/week) appointments during Summer 2020 and Spring 2021 along with term-time research during Fall 2020. I following my PI Marine A. Denolle to the University of Washington during Spring 2021 during a gap semester to continue working on the projects. From owning my work in an inter-department collaboration, attending and sharing in weekly group meetings and seminars, and presentating at two fall seismology conferences (SCEC and AGU) I've experienced what research in a graduate lab is like.
 
 ## The BASIN Project

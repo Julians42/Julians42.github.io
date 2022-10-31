@@ -1,0 +1,12 @@
+---
+title: "Undergraduate Forestry Data Science Lab Research Exprience"
+collection: portfolio
+excerpt: 'Details my role working with PI Kelly McConville on two data science projects.'
+---
+While my previous two research experiences existed solely through Zoom, this past summer I shared my energy and excitement for confronting climate change in statistical forestry in the Harvard Statistics Department’s Summer Research Program. I was invigorated by the collaboration with the US Forest Inventory and Analysis Program, and alongside other students, I tackled forest attribute estimation using a combination of remote sensing and ground observations. 
+
+## Zero-inflation small area estimation modeling
+For half of the summer, we worked on building a new estimator in `R` hypothesized to better address the problem of zero-inflation in small area estimation models. Using my understanding of cloud computing, I was able to quickly learn how to run the simulations on the Harvard Research Computing Cluster needed to check whether our estimator outperformed (as measured by bias and variance) other estimators currently in use by the FIA: we found that our zero-inflation model significantly outperformed the other estimators and are working to publish these results. To learn more check out the [draft paper](https://julians42.github.io/publication/zi-sae) we've written. 
+
+## Tree distribution under a changing climate
+We concurrently tackled the problem of assessing how the zones in which tree species could live is expected to change under different warming scenarios. We used CMIP5 data alongside tree distribution information provided by our client NCASI, to develop a website which can be used by foresters to assess the future habitability of their region of interest. I presented the findings and website tool to a panel of over 200 live attendees in the annual NCASI climate training webinar for foresters. A small version of the website has been made publicly available. Throughout this project, I discovered that working together meant finding complementary strengths to produce a more nuanced and compelling story. I also found that some tree species are expected to benefit from warming temperatures in certain regions, leading to the surprising conclusion that we can find silver linings to climate change, and should leverage them to improve regional outcomes.
