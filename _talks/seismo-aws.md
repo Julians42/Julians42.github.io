@@ -4,7 +4,7 @@ collection: talks
 type: "Research Group Presentation"
 permalink: /talks/seismo-aws
 venue: "Stanford Seismology Group"
-date: 2014-03-01
+date: 2020-11-05
 location: "San Francisco, CA (remote)"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Illuminating Snow Droughts"
+title: "Illuminating Snow Droughts: The Future of Western United States snowpack in the high-resolution coupled SPEAR large ensemble"
 collection: publications
 permalink: /publication/snow-droughts
 excerpt: 'Evaluating the future of snow droughts in the Western United States using the SPEAR large ensemble, a high resolution coupled global climate model'

@@ -1,8 +1,8 @@
 ---
-title: "EPS 261 Final Paper"
+title: "Aqua Alta: Venice - A City Buit on Water"
 collection: publications
 permalink: /publication/eps-261-final
-excerpt: 'Aqua Alta: Venice - A City Buit on Water'
+excerpt: 'Applying sea level fingerprinting and numerical analysis to study sea level rise in one of the world's most vulnerable cities'
 date: 2022-05-15
 venue: ''
 paperurl: 'http://julians42.github.io/files/EPS_261_Final_Paper.pdf'

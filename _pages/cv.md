@@ -65,7 +65,7 @@ Clubs and Extracurriculars
 Skills
 ======
 * Programming Languages: Python, R, Julia
-  * Python: Data Analysis, Parallel Computing, Large Ensembles
+  * Python: Data Analysis (numpy, pandas, sklearn), Parallel Computing, Large Ensembles
   * R: Statisical Modeling, RShiny web development
   * Julia: Cloud Computing, Seismology Applications and Packages
 * Cloud Computing
@@ -73,6 +73,16 @@ Skills
   * AWS Batch Computing
   * Containerization (Docker)
   * Parallel Workflows
+
+
+Selected Awards
+======
+* Detur Book Prize - *Fall 2019*
+  * "The Detur Book Prize is one of the oldest prizes at Harvard College. It recognizes sophomores who attained very high academic standing in their first year at the College and honors them with a book of their choice." - Harvard College Office of Undergraduate Education
+* NOAA Hollings Scholarship - *Spring 2020*
+  * "The Hollings Scholarship Program provides successful undergraduate applicants with awards that include academic assistance (up to $9,500 per year) for two years of full-time study and a 10-week, full-time paid ($700/week) internship at a NOAA facility during the summer." - NOAA Hollings Program
+* Mathworks Math Modeling Finalist - *Spring 2017 & 2018*
+  * My Middlebury Mathematics Team competed in both the 2017 and 2018 national Moody’s, and subsequently MathWorks, Math Modeling Challenges. In 2017, we earned a scholarship placing in the top five percent of teams while investigating the effects of climate change on the US’s five coastal National Parks. In 2018, the team investigated the issue of food waste, placing in the top 6 teams out of 913, each earning a $1000 college scholarship and the opportunity to present our findings on an all-expenses paid trip to Jane Street Financial in New York City. Read our paper on the [M3 website](https://m3challenge.siam.org/sites/default/files/uploads/Team10278_Middlebury%20Union%20High%20School.pdf).
 
 Publications
 ======
