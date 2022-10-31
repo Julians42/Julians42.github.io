@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Forestry Data Science Lab Research Exprience"
 collection: portfolio
-excerpt: 'Details my role working with PI Kelly McConville on two data science projects.<br/><img src='/images/all_j_photos/ufds-portfolio-pic.png'>'
+excerpt: "Details my role working with PI Kelly McConville on two data science projects.<br/><img src='../images/all_j_photos/ufds-portfolio-pic.png' width=500>"
 ---
 While my previous two research experiences existed solely through Zoom, this past summer I shared my energy and excitement for confronting climate change in statistical forestry in the Harvard Statistics Department’s Summer Research Program. I was invigorated by the collaboration with the US Forest Inventory and Analysis Program, and alongside other students, I tackled forest attribute estimation using a combination of remote sensing and ground observations. 
 

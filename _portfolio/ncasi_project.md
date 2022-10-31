@@ -1,9 +1,8 @@
 ---
 title: "NCASI Climate Web Application"
 collection: portfolio
-excerpt: 'UFDS collaboration with NCASI: Climate forestry web Application<br/><img src='/images/all_j_photos/ncasi-portfolio-pic.png'>'
+excerpt: "UFDS collaboration with NCASI: Climate forestry web Application<br/><img src='/images/all_j_photos/ncasi-portfolio-pic.png' width=500>"
 ---
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>" -->
 
 # UDFS x NCASI Climate Dashboard
 This [repository](https://github.com/harvard-ufds/climate-dashboard) contains codes used in the deployment of the demo `R Shiny` app generated from the summer 2022 UDFS and NCASI stakeholder collaboration. The project leveraged large ensemble climate data alongside 1/8° resolution tree species information. We were tasked both with incorporating uncertainty into the *Climate Prediction and Analysis Tool* (CPAT) and update the user experience. We presented these results at the annual NCASI climate webinar live to over 200 people. 
