@@ -1,7 +1,7 @@
 ---
 title: "NCASI Climate Web Application"
 collection: portfolio
-excerpt: 'UFDS collaboration with NCASI: Climate forestry web Application<br/><img src='/images/all_j_photos/ncasi-portfolio-pic.png' width = 500>'
+excerpt: 'UFDS collaboration with NCASI: Climate forestry web Application<br/><img src='/images/all_j_photos/ncasi-portfolio-pic.png'>'
 ---
 <!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>" -->
 
