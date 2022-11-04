@@ -84,7 +84,7 @@ Selected Awards
 * Mathworks Math Modeling Finalist - *Spring 2017 & 2018*
   * My Middlebury Mathematics Team competed in both the 2017 and 2018 national Moody’s, and subsequently MathWorks, Math Modeling Challenges. In 2017, we earned a scholarship placing in the top five percent of teams while investigating the effects of climate change on the US’s five coastal National Parks. In 2018, the team investigated the issue of food waste, placing in the top 6 teams out of 913, each earning a $1000 college scholarship and the opportunity to present our findings on an all-expenses paid trip to Jane Street Financial in New York City. Read our paper on the [M3 website](https://m3challenge.siam.org/sites/default/files/uploads/Team10278_Middlebury%20Union%20High%20School.pdf).
 
-Publications
+Sample Work (and some soon-to-be Publications)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
