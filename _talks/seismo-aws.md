@@ -7,7 +7,7 @@ venue: "Stanford Seismology Group"
 date: 2020-11-05
 location: "San Francisco, CA (remote)"
 ---
-Co-presented a tutorial on using commerical cloud computing services for seismology applications with PI Marine Denolle and Tim Clements to the Stanford Seismology Group. I provided a technical workflow example using the Julia programming language on AWS with step-by-step instructions for getting started with AWS: from selecting instance configurations and getting key pairs set up to creating an Amazon machine image built with Julia packages. 
+Co-presented a tutorial on using commercial cloud computing services for seismology applications with PI Marine Denolle and Tim Clements to the Stanford Seismology Group led by Professor Beroza. I provided a technical workflow example using the Julia programming language on AWS with step-by-step instructions for getting started with AWS: from selecting instance configurations and getting key pairs set up to create an Amazon machine image built with Julia packages. 
 
 ## Tutorial
 I made an accompanying tutorial video which has over 150 unique views to date. I'm copying it below: 

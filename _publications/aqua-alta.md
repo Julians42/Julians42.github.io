@@ -8,6 +8,6 @@ date: 2022-04-30
 paperurl: 'http://julians42.github.io/files/EPS_261_Final_Paper.pdf'
 #citation: ''
 ---
-This project uses sea level fingerprinting techniques as taught in Jerry X. Mitrovica's EPS 261 in combination with topographical information on Venice to assess the risk posed by rising seas. We find that without intervention by 2100 even a low end sea level rise will make decadal extremes an annual occurrence, with decadal extremes matching century level disasters. [View project here.](http://julians42.github.io/files/EPS_261_Final_Paper.pdf)
+This project uses sea level fingerprinting techniques as taught in Jerry X. Mitrovica's EPS 261 in combination with topographical information on Venice to assess the risk posed by rising seas. We find that without intervention by 2100 even a low-end sea level rise will make decadal extremes an annual occurrence, with decadal extremes matching century-level disasters. [View project here.](http://julians42.github.io/files/EPS_261_Final_Paper.pdf)
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->

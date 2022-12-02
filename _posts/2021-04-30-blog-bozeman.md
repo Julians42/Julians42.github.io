@@ -9,7 +9,7 @@ tags:
 
 Adventures in Bozeman, MT
 ======
-To avoid another semester stuck on zoom in a dorm room, my teammate James Kitch and I decided to take a gap ski-mester. We drove out to Bozeman, MT where we'd rented a small apartment outside of town. During the winter we trained and raced with the Bridger Ski Foundation ski team coached by Heather Mooney and former 4x olympian Andy Newell. Over the summer we explored seemingly limitless mountain running trails, National Parks, and hosted an impressive rotation of friends on the second twin bed. In addition to exploring some of the West's best skiing, we learned how to fix a lot of things on a car, not cook broccoli until the pot turns black, and how to take shoot epic (at least from our point of view) videos of ourselves on a GoPro. We actually ended up making a few highlight blog videos - they're pretty fun :)
+To avoid another semester stuck on zoom in a dorm room, my teammate James Kitch and I decided to take a gap ski-mester. We drove out to Bozeman, MT where we'd rented a small apartment outside of town. During the winter we trained and raced with the Bridger Ski Foundation ski team coached by Heather Mooney and former 4x Olympian Andy Newell. Over the summer we explored seemingly limitless mountain running trails, National Parks, and hosted an impressive rotation of friends on the second twin bed. In addition to exploring some of the West's best skiing, we learned how to fix a lot of things on a car, not cook broccoli until the pot turns black, and how to take shoot epic (at least from our point of view) videos of ourselves on a GoPro. We ended up making a few highlight blog videos - they're pretty fun :)
 
 Cross Country Drive
 ======
