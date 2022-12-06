@@ -3,7 +3,7 @@ title: "Illuminating Snow Droughts: The Future of Western United States snowpack
 collection: publications
 permalink: /publication/snow-droughts
 excerpt: 'Evaluating the future of snow droughts in the Western United States using the SPEAR large ensemble, a high resolution coupled global climate model'
-date: 2022-12-31
+date: 2022-12-05
 #venue: ''
 paperurl: 'http://julians42.github.io/files/Snow_Droughts.pdf'
 #citation: ''
