@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Julian Schmitt"
   avatar           : "profile.png"
-  bio              : "Harvard College Senior | Applied Math, Statistics & Climate | Nordic Skier"
-  location         : "Middlebury, Vermont"
-  employer         :
+  bio              : "Caltech PhD Candidate | Applied Math, Statistics & Climate | Nordic Skier"
+  location         : "Pasadena, California"
+  employer         : "Climate Modeling Alliance (CliMA)"
   pubmed           : 
-  googlescholar    : 
-  email            : "jschmitt@college.harvard.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=NVXh-ikAAAAJ&hl=en"
+  email            : "jschmitt@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

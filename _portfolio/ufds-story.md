@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Forestry Data Science Lab Research Exprience"
+title: "Undergraduate Forestry Data Science Lab Research Experience"
 collection: portfolio
 excerpt: "Details my role working with PI Kelly McConville on two data science projects.<br/><img src='../images/all_j_photos/ufds-portfolio-pic.png' width=500>"
 ---
