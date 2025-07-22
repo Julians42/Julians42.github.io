@@ -12,104 +12,104 @@ redirect_from:
 Education
 ======
 **California Institute of Technology, 2023-Present**
- * Ph.D. Student in Environmental Science and Engineering, advised by [Tapio Schneider](https://climate-dynamics.org/)
+ * Ph.D. Student in Environmental Science and Engineering, GPA: 4.0 – Advisor: Tapio Schneider
+ * Thesis Advisory Committee: Tapio Schneider, Andrew Stuart, Tom Beucler, Andrew Thompson (chair)
+ * Relevant Coursework: Inverse Problems, Data Assimilation, Machine Learning, Geophysical Fluid Dynamics
 
 **Harvard University, 2023**
  * A.B. Magna Cum Laude in Applied Mathematics, GPA: 3.94
- * Focus in Earth and Planetary Sciences. Secondary in Statistics
+ * Focus Field in Earth and Planetary Sciences, Secondary in Statistics
+
+**Budapest Semesters in Mathematics, 2021**
+ * Combinatorial Optimization
 
 **Middlebury Union High School, 2018**
  * Valedictorian, Vermont Scholar
 
-<!-- * **Budapest Semesters in Mathematics**
- * *Combinatorial Optimization*, Grade: A, Spring 2021
-* **Middlebury College**
- * M200: Linear Algebra, Audit, Spring 2017
- * M318: Operations Research, Grade: A, Fall 2017 -->
-
-
-Experience
+Current Research Projects
 ======
-**Software Engineer, Coolant, Summer 2023**
- * Remote sensing and machine learning expert. Developed a pipeline to estimate carbon stock and land cover across Borneo using 10-meter Sentinel-1 and 2 data from google earth engine trained with convolutional neural networks
+* **Optimizing loss functions to accelerate calibration of earth system models.** PI: Tapio Schneider.
+* **Designing online data-driven closures for cloud fraction.** PI: Tapio Schneider. Collaborator: Tom Beucler.
+* **Assessing space-time tradeoffs for climate emulators in the operator learning setting.** PIs: Tapio Schneider, Andrew Stuart. Collaborators: Ryan Eusebi, George Stepaniants.
+* **Isolating low-frequency ocean variability in data to uncover ocean-driven changes in Antarctic glacier melt.** PI: Andrew Thompson.
 
-**Harvard Undergraduate Forestry Data Science Group, Summer 2022**
- * Applied small area estimators to address zero-inflated data for the U.S. Forest Service Inventory and Analysis division.
- * Developed an interactive [website](https://ncasi-shiny-tools.shinyapps.io/CPAT_Ver2_Demo/) for NCASI, an umbrella forestry service organization, to highlight the risks of climate change to national forests. 
-
-**NOAA Hollings Scholar, Summer 2021**
- * Interned with the National Oceanic and Atmospheric Administration (NOAA) on a joint project at Boulder Physical Sciences Lab and at Princeton's Geophysical Fluid Dynamics Laboratory (GFDL) investigating snow droughts using large ensemble climate models. 
- * Supervised by Mimi Hughes (PSL), Nathaniel Johnson (GFDL), and Kai-Chih Tseng (Taiwan University), the project is now [published](https://doi.org/10.1029/2023JD039754)! 
-
-**Harvard Seismology / U. Washington Seismology Groups, Feb 2020 - May 2021**
- * Built a Julia workflow for high-performance seismic data analysis on the AWS cloud to constrain an LA-area earthquake and deployed a workflow utilizing 100 times more data than a 2014 study. Presented at AGU, SCEC, and to the Stanford Seismology Group.
- * Used AWS EC2, S3, and Batch for parallel computing alongside containerization, bash scripting, and GitHub to extend the workflow to begin building a California-wide database of seismology cross-correlations with 100+ TBs of data.
-
-Skills
+Publications
 ======
-Programming Languages: Python, Julia, R
+2. Grayson W. White, Josh K. Yamamoto, Dinan H. Elsyad, **Julian F. Schmitt**, Niels H. Korsgaard, Jie Kate Hu, George C. Gaines III, Tracey S. Frescino, and Kelly S. McConville. 2025. Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*. 55: 1-19. [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
+
+1. **Schmitt, J.**, Tseng, K.-C., Hughes, M., & Johnson, N. C. (2024). Illuminating snow droughts: The future of western United States snowpack in the SPEAR large ensemble. *Journal of Geophysical Research: Atmospheres*, 129, e2023JD039754. [https://doi.org/10.1029/2023JD039754](https://doi.org/10.1029/2023JD039754)
+
+Conference Presentations
+======
+* **Schmitt, J.**, Abel, M., Johnson, N., Tseng, K.-C., "Illuminating Snow Droughts: The Future of Snowpack in the Western United States", 14A-3. 36th Conference on Hydrology. American Meteorological Society, 2022.
+* Denolle, M., **Schmitt, J.**, Ermert, L., Clements, T., Wang, N., and Olsen, K. B., "Illuminating seismic waveguides using noise cross correlations and numerical simulations", Art. no. S005-03, 2020. American Geophysical Union, 2020.
+* **Schmitt, J.**, Clements, T., Retailleau, L., Mordret, A., Beroza, G. C., and Denolle, M., "Comprehensive California-wide large-scale noise cross correlations", vol. 2020, Art. no. S022-08, 2020.
+* **Schmitt, J.**, Clements, T., Wang, N., Olsen, K., Denolle, M., "Ground Motion Prediction Using Ambient Seismic Noise on a Large-N Array in the LA Basin", Poster #212. Southern California Earthquake Center Annual Meeting, 2020.
+* Clements, T., **Schmitt, J.**, Denolle, M., "Cloud-Native Analysis of Southern California Waveform Data", Poster #193. Southern California Earthquake Center Annual Meeting, 2020.
+
+Workshops and Summer Schools
+======
+* **NASA Summer School on Satellite Observations and Climate Models.** August 20-29, 2025.
+* **Les Houches School of Physics: Parameterizations for Global Dynamical Models in Climatology, Astrophysics, and Planetology.** Presentation: Toward Reducing Climate Model Cloud Biases: Calibration of a Unified EDMF Parameterization with Observational Data. March 16-21, 2025. Poster.
+* **Schmidt Science 2024 Cross-VESRI Convening and Summer School.** Cambridge, UK. Presentation: Fine-Tuning Model Parameterizations with Observational Data: A Case Study with CliMA's EDMF Model. July 2024. Poster.
+
+Teaching
+======
+* **TA for Caltech ESE 101: Earth's Atmosphere, Fall 2025.** Prof: Tapio Schneider
+* **TA for Caltech Ge/Ay 117: Bayesian Statistics, Winter 2025.** Prof: Heather Knutson.
+
+Technical Skills
+======
+**Programming Languages:** Julia, Python, R, Git, SLURM
+ * Julia: CliMA suite, Seismology Applications, and Packages
  * Python: Data Analysis and Modeling (xarray, sklearn), Parallel Computing, Climate Data
- * Julia: CliMA suite, Cloud Computing, Seismology Applications, and Packages
  * R: Statistical Modeling, RShiny web development
  
-Cloud Computing
- * SLURM
- * AWS EC2 and S3 Platforms
- * AWS Batch Computing
- * Containerization (Docker)
- * Parallel Workflows
+**Cloud Computing:** Google Earth Engine, AWS EC2, S3, and Batch computing, Docker
+ * SLURM cluster computing
+ * Containerization and parallel workflows
 
+Archived Software and Data Products
+======
+* **Schmitt, J.**, Clements, T., & Denolle, M. (2025). Julians42/C4-Project.jl: C4 Project v0.1.0 (v0.1.0). Zenodo. [https://doi.org/10.5281/zenodo.15276644](https://doi.org/10.5281/zenodo.15276644)
+* **Schmitt, J.**, Ni, Y., Clements, T., & Denolle, M. (2025). Julians42/SeisCore.jl: SeisCore v0.1.0 (v0.1.0). Zenodo. [https://doi.org/10.5281/zenodo.15276502](https://doi.org/10.5281/zenodo.15276502)
+* **Schmitt, J.**, Tseng, K.-C., Hughes, M., & Johnson, N. (2022). Dataset – Illuminating snow droughts (0.1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7121528](https://doi.org/10.5281/zenodo.7121528)
+* **Julian Schmitt.** (2022). Julians42/Snow_Droughts: 0.1.0 (0.1.0). Zenodo. [https://doi.org/10.5281/zenodo.7130303](https://doi.org/10.5281/zenodo.7130303)
 
 Selected Awards
 ======
-National Science Foundation Graduate Research Fellowship - *Spring 2023*
+**National Science Foundation Graduate Research Fellowship (GRFP)** - *2023*
   * Five year fellowship with three years of financial support
 
-NOAA Hollings Scholarship - *Spring 2020*
- * "The Hollings Scholarship Program provides successful undergraduate applicants with awards that include academic assistance (up to `$`9,500 per year) for two years of full-time study and a 10-week, full-time paid (`$`700/week) internship at an NOAA facility during the summer." - NOAA Hollings Program
+**NOAA Hollings Scholarship** - *2020*
+ * Academic assistance (up to $9,500 per year) for two years and 10-week paid internship at NOAA facility
 
-Detur Book Prize - *Fall 2019*
- * "The Detur Book Prize is one of the oldest prizes at Harvard College. It recognizes sophomores who attained very high academic standing in their first year at the College and honors them with a book of their choice." - Harvard College Office of Undergraduate Education
+**Detur Book Prize** - *2019*
+ * Given to the top 5% of Harvard Freshman Class
 
-Mathworks Math Modeling Finalist - *Spring 2017 & 2018*
- * My Middlebury Mathematics Team competed in both the 2017 and 2018 national Moody’s, and subsequently MathWorks, Math Modeling Challenges. In 2017, we earned a scholarship placing in the top five percent of teams while investigating the effects of climate change on the US’s five coastal National Parks. In 2018, the team investigated the issue of food waste, placing in the top 6 teams out of 913, each earning a $1000 college scholarship and the opportunity to present our findings on an all-expenses paid trip to Jane Street Financial in New York City. Read our paper on the [M3 website](https://m3challenge.siam.org/sites/default/files/uploads/Team10278_Middlebury%20Union%20High%20School.pdf).
+**John Harvard Scholar** - *2019*
 
-College Clubs and Extracurriculars
-=====
-**Harvard Varsity Nordic Skiing, 2019-2023**
- * Walk-on member of the D1 Harvard Nordic Ski team. Represented skiing on the Student-Athlete Advisory Committee 2020-22.
+**MathWorks Math Modeling Challenge Finalist** - *2018*
 
-**Applied Math Peer Concentration Advisor (PCA), 2021-22**
- * Coordinated the applied math advising team by facilitating 50 advisor/advisee pairings and 2-3 events per semester. 
-
-<!-- * **Harvard Pops Orchestra, 2018-19 & 2022**
- * Played trumpet II for the Orchestra during my freshman year and junior spring.
- * In high school I played lead (first by audition) trumpet in the Vermont All-State Jazz Band and also played for the New England Concert Band
-
-* **Harvard Data Analytics Group, Spring 2021**
- * Case Team Associate - responsible for coordinating feature and model development for 4 analysts. 
- * Led the development of a machine learning model to automate the grading of student writing samples for an ed-tech start-up. Merged team members' programs into one workflow and tested several machine learning algorithms. Improved modeled grading accuracy by 90% over the semester-long project.
-
-* **Harvard Undergraduate Consulting for Business and the Environment, Spring 2019**
- * Developed a linear programming model to provide the client with the most cost-effective disposal solution for waste. Built a website to host the model and deploy other tools developed by case team members. -->
-
-
-<!-- Sample Work
+Activities
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+**Caltech Alpine Club** - *Run Coordinator, 2025-present*
+ * Design routes and lead weekly trail runs for about 20 people
+
+**Harvard Varsity Nordic Skiing** - *2019-2023*
+ * Walk-on member of the D1 Harvard Nordic Ski team. Student-Athlete Advisory Committee Representative 2020-22.
+
+Undergraduate Research Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
+**Software Engineer, Coolant, Summer 2023**
+ * Remote sensing and machine learning. Developed pipeline for carbon stock estimation using Google Earth Engine and CNNs
+
+**Harvard Statistics Group / Senior Thesis, 2022**
+ * Applied small area estimators and mixed-effects random forests for U.S. Forest Service. Developed interactive [website](https://ncasi-shiny-tools.shinyapps.io/CPAT_Ver2_Demo/) for NCASI
+
+**NOAA Hollings Scholar, Summer 2021**
+ * Statistical methods for snow drought forecast using the SPEAR large ensemble climate model at Boulder PSL and Princeton GFDL. See publications.
+
+**Harvard Seismology Group, 2020-2021**
+ * Built Julia workflow for high-performance seismic data analysis on AWS cloud using 100+ TBs of data
 
