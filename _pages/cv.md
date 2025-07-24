@@ -89,12 +89,12 @@ Selected Awards
 
 **John Harvard Scholar** - *2019*
 
-**MathWorks Math Modeling Challenge Finalist** - *2018*
+**MathWorks Math Modeling Challenge Finalist** - *2018* [link](https://m3challenge.siam.org/resources/archives/2018-year-at-a-glance/2018-winning-solutions/)
 
 Activities
 ======
 **Caltech Alpine Club** - *Run Coordinator, 2025-present*
- * Design routes and lead weekly trail runs for about 20 people
+ * Design routes, coordinate carpool, and lead weekly trail runs for about 20 people.
 
 **Harvard Varsity Nordic Skiing** - *2019-2023*
  * Walk-on member of the D1 Harvard Nordic Ski team. Student-Athlete Advisory Committee Representative 2020-22.
@@ -102,14 +102,14 @@ Activities
 Undergraduate Research Experience
 ======
 **Software Engineer, Coolant, Summer 2023**
- * Remote sensing and machine learning. Developed pipeline for carbon stock estimation using Google Earth Engine and CNNs
+ * Remote sensing and machine learning. Developed pipeline for carbon stock estimation using Google Earth Engine and CNNs. Under the direction of Michael Wu, CEO.
 
 **Harvard Statistics Group / Senior Thesis, 2022**
- * Applied small area estimators and mixed-effects random forests for U.S. Forest Service. Developed interactive [website](https://ncasi-shiny-tools.shinyapps.io/CPAT_Ver2_Demo/) for NCASI
+ * Studied bias-variance trade-offs between machine learning methods for carbon stock estimation for U.S. Forest Service. Developed interactive [website](https://ncasi-shiny-tools.shinyapps.io/CPAT_Ver2_Demo/) for NCASI. Prof. Kelly McConville.
 
 **NOAA Hollings Scholar, Summer 2021**
- * Statistical methods for snow drought forecast using the SPEAR large ensemble climate model at Boulder PSL and Princeton GFDL. See publications.
+ * Statistical methods for snow drought forecast using the SPEAR large ensemble climate model at Boulder PSL and Princeton GFDL. Dr. Nathaniel Johnson (GFDL), Dr. Mimi Abel (PSL), Dr. Kai-Chih Tseng (NTU). Paper [here](https://doi.org/10.1029/2023JD039754).
 
 **Harvard Seismology Group, 2020-2021**
- * Built Julia workflow for high-performance seismic data analysis on AWS cloud using 100+ TBs of data
+ * Built Julia workflow for high-performance seismic data analysis on AWS cloud using 100+ TBs of data to estimate waveguide effects in the Los Angeles basin. Prof. Marine Denolle (now at University of Washington).
 

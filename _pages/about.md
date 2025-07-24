@@ -15,8 +15,8 @@ redirect_from:
 Hi! I'm Julian, a third-year Ph.D. student in Environmental Science and Engineering at Caltech. I work with [Tapio Schneider](https://climate-dynamics.org/people/tapio-schneider/) as a member of the [Climate Modeling Alliance](https://clima.earth/), where I'm applying mathematical tools and machine learning to tackle climate problems.
 
 At CliMA, this includes developing a new framework for diagnosing and improving model calibration in the non-differentiable slow 
-forward model setting. I've been applying this framework to CliMA's atmosphere model, [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl), by 
-developing more efficient loss functions. I'm also developing a new ML closure for the atmosphere model's representation of clouds. Interested in the 
+forward model setting. I've been applying this framework to CliMA's atmosphere model, [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl), to 
+develop more efficient loss functions for use in global calibrations. I'm also developing a new ML closure for the atmosphere model's representation of clouds. Interested in the 
 machine learning revolution in the numerical weather prediction world, I am exploring history and space tradeoffs in the Neural Operator setting.
 
 Beyond research, I enjoy coordinating weekly trail runs for the Caltech Alpine Club in the beautiful San Gabriel Mountains, where I get to enjoy both the outdoors and the awesome local running community.
