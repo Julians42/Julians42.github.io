@@ -7,9 +7,13 @@ author_profile: true
 
 For the most up-to-date publication list and citations, see my [Google Scholar profile](https://scholar.google.com/citations?user=NVXh-ikAAAAJ).
 
+## Submitted Articles
+
+**Schmitt, J.F.**, Delorme, B., King, R.C., Patodia, Y., Schneider, T., Sheshadri, A., Jain, R. (2026 arXiv preprint). Improving precipitation forecasts in an AI weather model using observational data. arXiv. [https://doi.org/10.48550/arXiv.2609.03210](https://doi.org/10.48550/arXiv.2609.03210). Submitted.
+
 ## Peer-Reviewed Publications
 
-White, G. W., Yamamoto, J. K., Elsyad, D. H., **Schmitt, J. F.**, Korsgaard, N. H., Hu, J. K., ... & McConville, K. S. (2025). Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*, 55, 1-19. [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
+White, G. W., Yamamoto, J. K., Elsyad, D. H., **Schmitt, J. F.**, Korsgaard, N. H., Hu, J. K., McConville, K. S. (2025). Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*, 55, 1-19. [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
 
 **Schmitt, J.**, Tseng, K.-C., Hughes, M., & Johnson, N. C. (2024). Illuminating snow droughts: The future of western United States snowpack in the SPEAR large ensemble. *Journal of Geophysical Research: Atmospheres*, 129, e2023JD039754. [https://doi.org/10.1029/2023JD039754](https://doi.org/10.1029/2023JD039754)
 

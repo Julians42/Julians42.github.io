@@ -13,34 +13,41 @@ Education
 ======
 **California Institute of Technology, 2023-Present**
  * Ph.D. Student in Environmental Science and Engineering, GPA: 4.0 – Advisor: Tapio Schneider
- * Thesis Advisory Committee: Tapio Schneider, Andrew Stuart, Tom Beucler, Andrew Thompson (chair)
+ * Thesis Advisory Committee: Tapio Schneider, Andrew Stuart, Tom Beucler, Andrew Thompson (chair), Aditi Sheshadri
  * Relevant Coursework: Inverse Problems, Data Assimilation, Machine Learning, Geophysical Fluid Dynamics
 
 **Harvard University, 2023**
  * A.B. Magna Cum Laude in Applied Mathematics, GPA: 3.94
  * Focus Field in Earth and Planetary Sciences, Secondary in Statistics
 
-**Budapest Semesters in Mathematics, 2021**
- * Combinatorial Optimization
+<!-- **Budapest Semesters in Mathematics, 2021**
+ * Combinatorial Optimization -->
 
 **Middlebury Union High School, 2018**
  * Valedictorian, Vermont Scholar
 
 Current Research Projects
 ======
+* **Improving precipitation forecasts using graph-transformers and satellite data** with Google collaborators. [link](https://arxiv.org/abs/2609.03210)
+* **Subseasonal Forecasting in [AIWeatherQuest](https://aiweatherquest.ecmwf.int/)** with Ronak Patel.
 * **Optimizing loss functions to accelerate calibration of earth system models.** PI: Tapio Schneider.
-* **Designing online data-driven closures for cloud fraction.** PI: Tapio Schneider. Collaborator: Tom Beucler.
-* **Assessing space-time tradeoffs for climate emulators in the operator learning setting.** PIs: Tapio Schneider, Andrew Stuart. Collaborators: Ryan Eusebi, George Stepaniants.
-* **Isolating low-frequency ocean variability in data to uncover ocean-driven changes in Antarctic glacier melt.** PI: Andrew Thompson.
+* **Designing online data-driven closures for cloud fraction.** PI: Tapio Schneider in collaboration with Tom Beucler.
+<!-- * **Assessing space-time tradeoffs for climate emulators in the operator learning setting.** PIs: Tapio Schneider, Andrew Stuart. Collaborators: Ryan Eusebi, George Stepaniants. -->
+<!-- * **Isolating low-frequency ocean variability in data to uncover ocean-driven changes in Antarctic glacier melt.** PI: Andrew Thompson. -->
+
 
 Publications
 ======
+3. **Schmitt, J.F.**, Delorme, B., King, R.C., Patodia, Y., Schneider, T., Sheshadri, A., Jain, R. (2026 arXiv preprint). Improving precipitation forecasts in an AI weather model using observational data. arXiv. [https://doi.org/10.48550/arXiv.2609.03210](https://doi.org/10.48550/arXiv.2609.03210). Submitted.
+
 2. Grayson W. White, Josh K. Yamamoto, Dinan H. Elsyad, **Julian F. Schmitt**, Niels H. Korsgaard, Jie Kate Hu, George C. Gaines III, Tracey S. Frescino, and Kelly S. McConville. 2025. Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*. 55: 1-19. [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
 
-1. **Schmitt, J.**, Tseng, K.-C., Hughes, M., & Johnson, N. C. (2024). Illuminating snow droughts: The future of western United States snowpack in the SPEAR large ensemble. *Journal of Geophysical Research: Atmospheres*, 129, e2023JD039754. [https://doi.org/10.1029/2023JD039754](https://doi.org/10.1029/2023JD039754)
+1. **Schmitt, J.F.**, Tseng, K.-C., Hughes, M., & Johnson, N. C. (2024). Illuminating snow droughts: The future of western United States snowpack in the SPEAR large ensemble. *Journal of Geophysical Research: Atmospheres*, 129, e2023JD039754. [https://doi.org/10.1029/2023JD039754](https://doi.org/10.1029/2023JD039754)
 
 Conference Presentations
 ======
+* **Schmitt, J.**, Beucler, T., Christoploulos, C., Schneider, T., “Online learning of a machine learning cloud fraction closure in a hybrid earth system model”, American Geophysical Union, 2025. 
+* **Schmitt, J.**, Baptista, R., Reddy, T., Christopoulos, C., Dunbar, O., Sridhar, A., Schneider, T., “A framework to assess parameter identifiability and observation utility in earth system model calibration”, GC41A-05, American Geophysical Union, 2025.
 * **Schmitt, J.**, Abel, M., Johnson, N., Tseng, K.-C., "Illuminating Snow Droughts: The Future of Snowpack in the Western United States", 14A-3. 36th Conference on Hydrology. American Meteorological Society, 2022.
 * Denolle, M., **Schmitt, J.**, Ermert, L., Clements, T., Wang, N., and Olsen, K. B., "Illuminating seismic waveguides using noise cross correlations and numerical simulations", Art. no. S005-03, 2020. American Geophysical Union, 2020.
 * **Schmitt, J.**, Clements, T., Retailleau, L., Mordret, A., Beroza, G. C., and Denolle, M., "Comprehensive California-wide large-scale noise cross correlations", vol. 2020, Art. no. S022-08, 2020.
@@ -55,19 +62,18 @@ Workshops and Summer Schools
 
 Teaching
 ======
-* **TA for Caltech ESE 101: Earth's Atmosphere, Fall 2025.** Prof: Tapio Schneider
+* **TA for Caltech ESE 101: Earth's Atmosphere, Fall 2026.** Prof: Tapio Schneider.
+* **TA for Caltech ESE 101: Earth's Atmosphere, Fall 2025.** Prof: Tapio Schneider.
 * **TA for Caltech Ge/Ay 117: Bayesian Statistics, Winter 2025.** Prof: Heather Knutson.
 
 Technical Skills
 ======
-**Programming Languages:** Julia, Python, R, Git, SLURM
- * Julia: CliMA suite, Seismology Applications, and Packages
- * Python: Data Analysis and Modeling (xarray, sklearn), Parallel Computing, Climate Data
- * R: Statistical Modeling, RShiny web development
+**Programming Languages:** Julia, Python, Git
+ * Julia: CliMA suite (package development, CI), Seismology Applications, and Packages
+ * Python: PyTorch, Hydra
  
-**Cloud Computing:** Google Earth Engine, AWS EC2, S3, and Batch computing, Docker
- * SLURM cluster computing
- * Containerization and parallel workflows
+**Cloud Computing:** Google Cloud Platform, Amazon Web Services, SLURM, Containerized Application Development
+ * Developing and training state-of-the-art AI weather models on 100+ GPU systems.
 
 Archived Software and Data Products
 ======
